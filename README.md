@@ -45,3 +45,7 @@ I am Machine Learning Engeneer <img src="https://media.giphy.com/media/PjJ1cLHqL
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Humphreey&theme=earth&border_radius=25&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humphreey&show_icons=true&theme=gruvbox)
+
+
