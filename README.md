@@ -48,4 +48,5 @@ I am Machine Learning Engeneer <img src="https://media.giphy.com/media/PjJ1cLHqL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humphreey&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humphreey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
